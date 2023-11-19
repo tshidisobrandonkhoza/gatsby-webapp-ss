@@ -1,6 +1,10 @@
 import React from 'react'
 import Navbar from './Navbar'
 import Footerbar from './Footerbar'
+
+// import '../styles/global.css'
+
+import '../styles/global.scss'
 function Layout({ children }) {
     return (
         <div className='layout'>

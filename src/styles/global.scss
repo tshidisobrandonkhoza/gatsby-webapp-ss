@@ -1,0 +1,78 @@
+// @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  color: #fff;
+}
+
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  background: rgb(66, 57, 30);
+  background: linear-gradient(
+    105deg,
+    rgba(66, 57, 30, 0.9501050420168067) 0%,
+    rgba(9, 121, 76, 0.9473039215686274) 50%,
+    rgba(0, 212, 255, 0.6896008403361344) 100%
+  );
+}
+
+p {
+  margin: 16px auto;
+  line-height: 1.5em;
+}
+
+/* layout styles */
+
+.layout {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+nav {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  margin: 1.5em auto;
+}
+
+nav .links {
+  display: inline-block;
+  text-align: right;
+}
+
+nav a {
+  display: inline-block;
+  margin-right: 2em;
+  padding-bottom: 8px;
+  border-bottom: 3px solid transparent;
+}
+
+nav a:hover {
+  border-color: #fff;
+}
+
+footer p {
+  text-align: center;
+  color: #c1c1c1;
+  margin: 2em auto;
+}
+
+.service-list {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.s-list {
+  background-color: pink;
+  margin: 2em auto;
+}
+.s-list img {
+  width: 20vw;
+}
