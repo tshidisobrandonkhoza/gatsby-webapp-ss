@@ -4,7 +4,7 @@ stack: Modern equipment and attention to detail
 slug: residential-security
 place: 2
 thumb: ../images/thumbs/P2.png
-featuredImg: ../images/featured/P4.png
+featuredImg: ../images/featured/P2.png
 ---
 
 Macaroni cheese mascarpone goat. Boursin stinking bishop cheesy feet cheese slices say cheese caerphilly babybel ricotta. When the cheese comes out everybody's happy taleggio when the cheese comes out everybody's happy halloumi red leicester when the cheese comes out everybody's happy mozzarella smelly cheese. Cheesy grin.
